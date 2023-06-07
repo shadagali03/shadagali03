@@ -2,9 +2,12 @@
 
 My name is **Sarang Hadagali** and I am currently working at **Merck** as a Software Engineering Intern. I started my career at **Tektronix** as a Software Engineering Intern as well where I updated the products page using **mustache.js** and created documentation for various components I implemented. I have also spent time at school working as a **Software Developer Analyst** for **Stevens Student Managed Investement Fund (SSMIF)** where I implemented the front-end views of the risk screen and correlation matrix using **Dash**.
 
-[Github:](https://img.shields.io/github/followers/shadagali03?style=social)
-
 ### Feel free to reach out!
+
+![Linkedin:](https://img.shields.io/badge/-Sarang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarang-hadagali-3567101b1/](https://www.linkedin.com/in/sarang-hadagali-3567101b1/))
+<br>
+[![Github:](https://img.shields.io/github/followers/shadagali03?style=social)](https://github.com/shadagali03)
+
 
 <!--
 **shadagali03/shadagali03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
