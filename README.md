@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Sarang Hadagali** and I am currently working at **Merck** as a Software Engineering Intern. I started my career at **Tektronix** as a Software Engineering Intern as well where I updated the products page using **mustache.js** and created documentation for various components I implemented. I have also spent time at school working as a **Software Developer Analyst** for **Stevens Student Managed Investement Fund (SSMIF)** where I implemented the front-end views of the risk screen and correlation matrix using **Dash**.
+My name is **Sarang Hadagali** and I am currently a TA for Operating Systems. I started my career at **Tektronix** as a Software Engineering Intern where I updated the products page using **mustache.js** and created documentation for various components I implemented. I then worked at **Merck** as a Software Engineering Intern where I worked on the Human Health IT team. I will be working at **JP Morgan** this coming summer. I have also spent time at school working as a **Software Developer Analyst** for **Stevens Student Managed Investement Fund (SSMIF)** where I implemented the front-end views of the risk screen and correlation matrix using **Dash**.
 
 ### Feel free to reach out!
 
